@@ -2,10 +2,13 @@
   "name": "Start Deutsch 1 Prep",
   "short_name": "Deutsch A1",
   "description": "25-day plan and exam practice for Goethe A1: Start Deutsch 1",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
+  "categories": [
+    "education"
+  ],
   "background_color": "#FBFCFE",
   "theme_color": "#1F3A93",
   "lang": "de",
